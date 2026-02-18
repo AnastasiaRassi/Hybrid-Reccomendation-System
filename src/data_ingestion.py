@@ -31,7 +31,7 @@ class DataIngestion:
                     data = pd.read_csv(obj['Body'], nrows=5_000_000)
                     data.to_csv(file_path, index=False)
                     logger.info("Large file detected. Only downloading 5M rows.")
-                    
+
                 else:
                     s3.download_file(self.bucket_name, file_name, file_path)
                     logger.info(f"Downloaded file: {file_name}")
