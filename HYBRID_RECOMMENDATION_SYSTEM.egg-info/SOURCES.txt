@@ -1,0 +1,13 @@
+README.md
+setup.py
+HYBRID_RECOMMENDATION_SYSTEM.egg-info/PKG-INFO
+HYBRID_RECOMMENDATION_SYSTEM.egg-info/SOURCES.txt
+HYBRID_RECOMMENDATION_SYSTEM.egg-info/dependency_links.txt
+HYBRID_RECOMMENDATION_SYSTEM.egg-info/requires.txt
+HYBRID_RECOMMENDATION_SYSTEM.egg-info/top_level.txt
+src/__init__.py
+src/ingestion.py
+utils/__init__.py
+utils/custom_exception.py
+utils/general_utils.py
+utils/s3_utils.py

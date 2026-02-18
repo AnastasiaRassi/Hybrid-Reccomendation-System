@@ -1,0 +1,11 @@
+pandas
+numpy
+boto3
+loguru
+setuptools
+pyyaml
+tensorflow
+comet-ml
+flask
+joblib
+dvc-s3

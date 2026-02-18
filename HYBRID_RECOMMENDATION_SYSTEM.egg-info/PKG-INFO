@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: HYBRID-RECOMMENDATION-SYSTEM
+Version: 0.1
+Author: Anastasia Al Rassi
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: boto3
+Requires-Dist: loguru
+Requires-Dist: setuptools
+Requires-Dist: pyyaml
+Requires-Dist: tensorflow
+Requires-Dist: comet-ml
+Requires-Dist: flask
+Requires-Dist: joblib
+Requires-Dist: dvc-s3
+Dynamic: author
+Dynamic: requires-dist
