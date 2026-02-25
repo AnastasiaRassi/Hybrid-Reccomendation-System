@@ -55,3 +55,5 @@ if __name__ == "__main__":
     config = load_config(CONFIG_PATH)
     obj = DataIngestion(config)
     obj.run()
+
+

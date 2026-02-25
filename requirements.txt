@@ -9,3 +9,6 @@ comet-ml
 flask
 joblib
 dvc-s3
+matplotlib
+wordcloud
+keras
